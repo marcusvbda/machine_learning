@@ -1,0 +1,1 @@
+- classificação supervisionado é quando damos alguns exemplos e suas respectivas "respostas", desta forma sempre que quisermos saber alguma coisa parecida, vamos nos basear no que temos de exemplo para decidir a provavel resposta certa
